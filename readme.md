@@ -2,6 +2,8 @@
 
 Used for generating link previews via [Vercel OG Image Playground](https://og-playground.vercel.app) for deployed Docusaurus sites.
 
+> Background by Sean Sinclair via [unsplash.com](https://unsplash.com/photos/2jYK_Bloby4)
+
 ![og-card](./images/og-card.png)
 
 ```jsx title="card.jsx"

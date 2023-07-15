@@ -1,12 +1,10 @@
-# Open Graph Card Format
-
-Used for generating link previews via [Vercel OG Image Playground](https://og-playground.vercel.app) for deployed Docusaurus sites.
-
-**Current Card**: [03-starfield](./designs/03-starfield/)
+# Simple Red and Blue  
 
 Profile picture by [bitmoji](https://www.bitmoji.com/).
 
-![og-card](./designs/03-starfield/images/og-card.png)
+Inspired by the design of [Starfield](https://bethesda.net/en/game/starfield).
+
+![og-card](./images/og-card.png)
 
 ```jsx
 <div
